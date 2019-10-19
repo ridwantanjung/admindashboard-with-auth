@@ -1,4 +1,4 @@
-# admindashboard with users authentication
+# Admin Dashboard with Users Authentication
 ### lib/framework :
 * Jquery
 * CodeIgniter
